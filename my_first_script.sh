@@ -8,5 +8,5 @@ echo "youa are teen"
 elif [[ $age -ge 18 ]] && [[ $age -lt 60 ]]; then
 echo "you are adult"
 else 
-echo "you are old"
+echo "you are to old"
 fi
